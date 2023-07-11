@@ -1,8 +1,8 @@
-http://alxmedical.com http://alxfamilyhealth.com            302
-https://alxmedical.com https://alxfamilyhealth.com          302
-http://alxmedical.com/* http://alxfamilyhealth.com/*        302
-https://alxmedical.com/* https://alxfamilyhealth.com/*      302
-http://www.alxmedical.com http://alxfamilyhealth.com        302
-https://www.alxmedical.com https://alxfamilyhealth.com      302
-http://www.alxmedical.com/* http://alxfamilyhealth.com/*    302
-https://www.alxmedical.com/* https://alxfamilyhealth.com/*  302
+http://alxmedical.com http://alxfamilyhealth.com                 302
+https://alxmedical.com https://alxfamilyhealth.com               302
+http://alxmedical.com/* http://alxfamilyhealth.com/:splat        302
+https://alxmedical.com/* https://alxfamilyhealth.com/:splat      302
+http://www.alxmedical.com http://alxfamilyhealth.com             302
+https://www.alxmedical.com https://alxfamilyhealth.com           302
+http://www.alxmedical.com/* http://alxfamilyhealth.com/:splat    302
+https://www.alxmedical.com/* https://alxfamilyhealth.com/:splat  302
